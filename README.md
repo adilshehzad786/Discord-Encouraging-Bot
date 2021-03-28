@@ -36,11 +36,14 @@ git clone https://github.com/adilshehzad786/Discord-Encouraging-Bot.git
 
 * Add `TOKEN= You copy previously paste here `
 
+## How Bot Works
+
 
 
 ## Built With
 
 - Python 
+- Repl Database
 
 ## Issues or Questions
 
